@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../Interview Preparation/interview/BOA/.idea/BOA.iml" filepath="$PROJECT_DIR$/../../../../Interview Preparation/interview/BOA/.idea/BOA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../Interview Preparation/投递简历/OA_JPMorgan/.idea/OA_JPMorgan.iml" filepath="$PROJECT_DIR$/../../../../Interview Preparation/投递简历/OA_JPMorgan/.idea/OA_JPMorgan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Course/python practice/Smart_Beta/.idea/Smart_Beta.iml" filepath="$PROJECT_DIR$/../../../Course/python practice/Smart_Beta/.idea/Smart_Beta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Course/CSE 6740/hw2/code_hw2/.idea/code.iml" filepath="$PROJECT_DIR$/../../../Course/CSE 6740/hw2/code_hw2/.idea/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Course/CSE 6740/hw4/.idea/hw4.iml" filepath="$PROJECT_DIR$/../../../Course/CSE 6740/hw4/.idea/hw4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kaggle_predict_stock_price/.idea/kaggle_predict_stock_price.iml" filepath="$PROJECT_DIR$/../kaggle_predict_stock_price/.idea/kaggle_predict_stock_price.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Course/ISYE 6414/project/projectCode/.idea/projectCode.iml" filepath="$PROJECT_DIR$/../../../Course/ISYE 6414/project/projectCode/.idea/projectCode.iml" />
+    </modules>
+  </component>
+</project>
